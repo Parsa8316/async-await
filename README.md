@@ -1,9 +1,9 @@
 
 # <div style="direction:rtl">Async/Await</div>
 
-[![Language](https://img.shields.io/badge/Language-Persian-blue.svg)](https://github.com/your-username/async-await-deep-dive)
+[![Language](https://img.shields.io/badge/Language-Persian-blue.svg)](https://github.com/Parsa8316/async-await)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PDF](https://img.shields.io/badge/Download-PDF-red.svg)](./paper/async-await-deep-dive.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF-red.svg)](./paper/async-await.pdf)
 
 ><div style="direction:rtl"> **یک کالبدشکافی علمی و عملی از الگوی Async/Await:** بررسی سیر تکاملی از Callback‌ها تا ماشین‌های وضعیت، مقایسه‌ی پیاده‌سازی در ۴ اکوسیستم بزرگ (جاوااسکریپت، سی‌شارپ، پایتون و جاوا) و تحلیل ضدالگوهای مرگبار در تولید نرم‌افزارهای مقیاس‌پذیر.</div>
 
