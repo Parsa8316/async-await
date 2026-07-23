@@ -1,5 +1,5 @@
 
-#<div style="direction:rtl"> 🚀 Async/Await در مهندسی نرم‌افزار مدرن – از ماشین وضعیت تا Project Loom</div>
+#Async/Await
 
 [![Language](https://img.shields.io/badge/Language-Persian-blue.svg)](https://github.com/your-username/async-await-deep-dive)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
