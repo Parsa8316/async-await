@@ -2,6 +2,7 @@
 # <div style="direction:rtl">Async/Await</div>
 
 [![Language](https://img.shields.io/badge/Language-Persian-blue.svg)](https://github.com/Parsa8316/async-await)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code_License-MIT-yellow.svg)](LICENSE)
 [![PDF](https://img.shields.io/badge/Download-PDF-red.svg)](./paper/async-await.pdf)
 
